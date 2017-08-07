@@ -1,0 +1,6 @@
+#This is used to allow the use of the actuator features with the help of URL like: localhost:8080/health and others
+management:
+  security:
+    enabled: false
+    
+ 
